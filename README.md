@@ -8,6 +8,9 @@ The objective of this tutorial is to learn about using Cupertino and Material Wi
 
 We’re going to make a crypto currency price checking app. By the end of the module, you'll be able to monitor your bitcoin investents on the move!
 
+![Screenshot_1](images/Screenshot_1.png)
+![Screenshot_2](images/Screenshot_2.png)
+
 ## What you will learn
 
 - How to use the DropdownButton Widget from Material design.
